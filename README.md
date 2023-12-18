@@ -29,4 +29,4 @@ The architecture is that of a FReMP based web application, emphasizing 3D model 
 1. Web Application: ReactJS, MongoDB, Flask, Bootstrap
 2. Data Processing: Google Colab, Pandas, face-recognition, Cv2, matplotlib, PIL, OpenCV, Numpy, TensorFlow, Torch, PoseEstimationWithMobileNet, Huggingface diffusers, schedulers, Stablediffusion, DreamBooth, PIFuHD, DECA
 
-
+Note: The Google Colab notebooks cannot be uploaded due to compliance issues related to the use of DECA, PIFu, and Stable Diffusion models, as doing so would conflict with the confidentiality terms outlined in the agreement forms that were signed.
